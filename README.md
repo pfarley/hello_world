@@ -1,2 +1,4 @@
 # hello_world
-Hello, World example rep
+Hello, World! example repository
+
+Branched for practice.
